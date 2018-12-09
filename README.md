@@ -1,2 +1,2 @@
 # AdvOfCode
-task from adventofcode.com
+tasks from adventofcode.com
